@@ -31,7 +31,7 @@ Create a Github account and make your first commit
 ### Git Installation
 Install your development environment
 
-- [ ] Install Git on your machine
+- [x] Install Git on your machine
 
 Windows: Install [Git for Windows](https://gitforwindows.org/) (includes [Git BASH](https://www.atlassian.com/git/tutorials/git-bash), its own version of the bash shell)
 
@@ -61,10 +61,10 @@ You should be able to ...
 - [x] Open the repo in Atom: Repository > Open in Atom  
 - [x] In Atom, edit this README file and add your *second* favorite emoji here: **🔥**
 - [ ] In Github Desktop, confirm the README file was saved and shows your new changes in the Changes tab
-- [ ] Commit your changes to the README file directly to the master branch with the message `commit #2 from Github Desktop`
-- [ ] Click Push origin to push your changes back to remote repo  
-- [ ] Confirm the changes to the README file were pushed: Choose Repository > View on Github
-- [ ] Click on the README file and then click on History to see the history of this file
+- [x] Commit your changes to the README file directly to the master branch with the message `commit #2 from Github Desktop`
+- [x] Click Push origin to push your changes back to remote repo  
+- [x] Confirm the changes to the README file were pushed: Choose Repository > View on Github
+- [x] Click on the README file and then click on History to see the history of this file
 
 
 ### Command line (CLI)
